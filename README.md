@@ -1,5 +1,5 @@
 <img 
-  src="./logo.svg" 
+  src="/logo.svg" 
   alt="thirteentwelve"
   title="thirteentwelve"
   style="aspect-ratio: 422/86;width:100%;height:auto" 
