@@ -1,16 +1,25 @@
-## Hi there 👋
+# The work of front-end developer Mike Byrne
 
-<!--
-**13twelve/13twelve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Over the past 26 years, there’s a fair chance you’ve used a website I’ve worked on.
 
-Here are some ideas to get you started:
+I work on front-end architecture, design systems, and better ways for designers and developers to work together. I care about accessibility, resilient code, and practical solutions that hold up over time.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+This site is a record of some of the things I’ve built and contributed to.
+
+## What I do
+* Front-end architecture
+* Design systems and component libraries
+* CSS, SCSS, and Tailwind
+* JavaScript
+* Accessibility
+* Localisation and internationalisation
+* Performance and browser compatibility
+
+## What I do it with
+* HTML, Blade, Twig, SVG, XML, and JSON
+* Node.js, Vite, Webpack, and npm
+* PHP, Laravel, Storybook, Drupal, and Vue
+* Technical leadership and mentoring
+* UI and UX
+* SEO, AEO and GEO
+* Git and SVN
