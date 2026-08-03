@@ -1,5 +1,10 @@
-<img src="https://raw.githubusercontent.com/13twelve/13twelve/refs/heads/main/logo.svg">
-
+<img 
+  src="logo.svg" 
+  alt="thirteentwelve"
+  title="thirteentwelve"
+  style="aspect-ratio: 422/86;width:100%;height:auto" 
+/>
+    
 # The work of front-end developer Mike Byrne
 
 Over the past 26 years, there’s a fair chance you’ve used a website I’ve worked on.
