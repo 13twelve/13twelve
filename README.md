@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/13twelve/13twelve/refs/heads/main/logo.svg">
+
 # The work of front-end developer Mike Byrne
 
 Over the past 26 years, there’s a fair chance you’ve used a website I’ve worked on.
