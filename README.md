@@ -1,9 +1,11 @@
 <img src="./logo.svg" style="aspect-ratio:422/86;width:100%;height:auto">
 
-**The work of front-end developer Mike Byrne**
+**The GitHub profile of front-end developer Mike Byrne**
 
-Over the past 26 years, there’s a fair chance you’ve used a website I’ve worked on.
+Over the past 26 years, and especially through my work at AREA 17, there’s a fair chance you’ve used a website I’ve helped build.
 
-I work on front-end architecture, design systems, and better ways for designers and developers to work together. I care about accessibility, resilient code, and practical solutions that hold up over time.
+During this time I’ve learned that the best outcomes rarely come from prioritising design, engineering or business needs on their own. They come from finding the right compromise between them, then building something teams can confidently maintain and grow.
+
+I care about accessibility, design systems, helping teams work well together, and practical solutions that hold up over time.
 
 **→ www.thirteentwelve.com**
